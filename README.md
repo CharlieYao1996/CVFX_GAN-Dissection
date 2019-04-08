@@ -21,17 +21,17 @@
     </tr>
     <tr>
         <th>Layer1</th>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true) </td>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
     </tr>
     <tr>
         <th>Layer4</th>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_1.PNG?raw=true) </td>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_2.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_1.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_2.PNG?raw=true) </td>
     </tr>
     <tr>
         <th>Layer7</th>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG?raw=true) </td>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG?raw=true) </td>
+        <td> >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG?raw=true) </td>
     </tr>
 </table>
