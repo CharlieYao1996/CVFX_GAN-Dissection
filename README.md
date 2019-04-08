@@ -26,5 +26,5 @@
   
   >>This is a novel approach for image completion that results in images that are both locally and globally consistent.With a fully-convolutional neural network, it can complete images of arbitrary resolutions by filling-in missing regions of any shape. To train this image completion network to be consistent,It use global and local context discriminators that are trained to distinguish real images from completed ones.
   >Model Architecture:  
-  <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/model_v2.png"/>
+  <img width="450" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/model_v2.png"/>
 
