@@ -1,6 +1,6 @@
 # CVFX_GAN-Dissection
   # 1.Generate images with GANPaint
-  >### oriign(a)
+  >### orign(a)
   >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/oriign.PNG?raw=true)
   >### ADD_grass(b)
   >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/ADD_grass.PNG?raw=true)
@@ -25,3 +25,7 @@
   >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG"/>
   >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG"/>
   >我們在每一個layer都選出兩張照片作為代表，以living room作為示範，這些圈起來的部位是該unit注意的class。由上圖我們可以發現layer1 focus的結果不盡理想，常無法正確判斷物件，而layer4有明顯的進步，可以正確圈出位置，但有時會有較誇張的誤差，layer7則圈出一些範圍較大的物件，雖然結果較layer4好一點，但還是會有小小的誤差。
+
+
+  # 3.Compare with other method
+  
