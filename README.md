@@ -13,13 +13,15 @@
   >### remove_tree_2(f)
   >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/remove_tree_2.png?raw=true)
   >>上面是一些我們試的東西，從圖b跟c可以看出，在地面上增加草或是在空中增加雲朵是很正常的，但是若反過來，在天空想要增加草，或是在地面想要增加雲朵，那就會出現很奇怪的圖案，另外在增加雲朵的時候附近的房屋邊緣會被模糊化。至於刪除物件如圖def所示，d是刪除草地和門，會發現草地變成水泥地，而門則是變成窗戶，都是被其他物件所取代的，然後e跟f都是刪除樹，可是e是刪中間而已，它的圖片會變得很奇怪，不過如果像f把整顆樹都刪除，圖片就會變得比較正常了。
->### layer1
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG"/>
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG"/>
->### layer4
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_1.PNG"/>
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_2.PNG"/>
->### layer7
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG"/>
->> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG"/>
->我們在每一個layer都選出兩張照片作為代表，這些圈起來的部位是mask的區域。由上圖我們可以發現layer1圈的東西形狀比較單調，效果較差，而layer4有圈的比較好，layer7則更能圈出一些比較複雜的圖形，效果是最好的。由此可知layer數越高確實越精準，比較能夠精確的辨別出物品，而layer1其實沒有太大的參考價值。
+  
+  # 2.Dissect any GAN model and analyze
+  >### layer1
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG"/>
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG"/>
+  >### layer4
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_1.PNG"/>
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_2.PNG"/>
+  >### layer7
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG"/>
+  >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG"/>
+  >我們在每一個layer都選出兩張照片作為代表，以living room作為示範，這些圈起來的部位是該unit注意的class。由上圖我們可以發現layer1 focus的結果不盡理想，常無法正確判斷物件，而layer4有明顯的進步，可以正確圈出位置，但有時會有較誇張的誤差，layer7則圈出一些範圍較大的物件，雖然結果較layer4好一點，但還是會有小小的誤差。
