@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <th>Layer1</th>
-        <td> <https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG> </td>
+        <td> <https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true> </td>
         <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
     </tr>
     <tr>
