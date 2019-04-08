@@ -35,3 +35,9 @@
   | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-1.png"/>   | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-1.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-1.png"/>  |
   |<img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-2.png"/>         | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-2.png"/>     |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-2.png"/> |
   | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-3.png"/>   |<img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-3.png"/>    |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-3.png"/>  |
+
+| Ex1          | Are           | Cool  |
+|:-------------:|:-------------:|:-----:|
+| 第三欄        | 靠右對齊      | $1600 |
+| 第二欄        | 置中對齊      |   $12 |
+| 斑馬條紋      | 是整齊的      |    $1 |
