@@ -1,5 +1,11 @@
 # CVFX_GAN-Dissection
   # 1.Generate images with GANPaint
+  
+  | orign(a)        | ADD_grass(b)          |ADD_cloud(c)  |
+  | ------------- |:-------------:| -----:|
+  | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/oriign.PNG?raw=true)        | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/ADD_grass.PNG?raw=true)      | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/ADD_cloud.PNG?raw=true) |
+  | 第二欄        | 置中對齊      |   $12 |
+  | 斑馬條紋      | 是整齊的      |    $1 |
   >### orign(a)
   >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/oriign.PNG?raw=true)
   >### ADD_grass(b)
