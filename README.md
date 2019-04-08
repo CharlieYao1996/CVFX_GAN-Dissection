@@ -22,7 +22,7 @@
     <tr>
         <th>Layer1</th>
         <td> <img>(https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG) </td>
-        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
+        <td> ![](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
     </tr>
     <tr>
         <th>Layer4</th>
