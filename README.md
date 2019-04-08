@@ -21,8 +21,8 @@
     </tr>
     <tr>
         <th>Layer1</th>
-        <td> ex:![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true) </td>
-        <td> ex:![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
+        <td>  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true) </td>
+        <td> ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true) </td>
     </tr>
     <tr>
         <th>Layer4</th>
