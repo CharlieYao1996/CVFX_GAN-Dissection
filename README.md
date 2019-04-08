@@ -17,6 +17,8 @@
 >![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true) 
  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_2.PNG?raw=true)
 >### layer4
->![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true)
+>![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_1.PNG?raw=true) 
+ ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer4_2.PNG?raw=true)
 >### layer7
->![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer1_1.PNG?raw=true)
+>![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG?raw=true) 
+ ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG?raw=true)
