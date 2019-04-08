@@ -36,3 +36,7 @@
 | Origin       | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-1.png"/>        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-1.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-1.png"/> |
 | Input        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-2.png"/>        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-2.png"/>      |  <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-2.png"/> |
 | Ouput        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-3.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-3.png"/>      |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-3.png"/> |
+
+
+>>在結果可以看出來，Mask住的東西，在小範圍的情況下移除物件的效果是滿好的，但是在大範圍的情況下，可能在最後的結果會相對模糊，且由於填補畫面缺失是基於content aware fill的之下，在edge顏色複雜或是多變的情況下，填補的效果也會越來越差。
+
