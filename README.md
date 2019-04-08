@@ -30,7 +30,7 @@
  
   ### Result:
   ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/result_1.png?raw=true)
- | Ex1       | Ex2           | Ex3  |
+   | Ex1       | Ex2           | Ex3  |
   | ------------- |:-------------:| :-----:|
   | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-1.png?raw=true)        | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-1.png?raw=true)      | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-1.png?raw=true) |
   | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-2.png?raw=true)        | ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-2.png?raw=true)      |   ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-2.png?raw=true) |
