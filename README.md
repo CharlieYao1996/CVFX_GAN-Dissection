@@ -32,12 +32,12 @@
   ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/result_1.png?raw=true)
   | Ex1       | Ex2           | Ex3  |
   | :-------------: |:-------------:| :-----:|
-  | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-1.png"/>   | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-1.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-1.png"/>  |
+ 
   |<img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-2.png"/>         | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-2.png"/>     |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-2.png"/> |
   | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-3.png"/>   |<img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-3.png"/>    |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-3.png"/>  |
 
 | Ex1          | Ex2           | Ex3   |
 |:------------:|:-------------:|:-----:|
 | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-1.png"/>        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-1.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-1.png"/> |
-| 第二欄        | 置中對齊      |   $12 |
-| 斑馬條紋      | 是整齊的      |    $1 |
+| <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-2.png"/>        | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-2.png"/>      |  <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-2.png"/> |
+| <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r1-3.png"/>      | <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r2-3.png"/>      |   <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/r3-3.png"/> |
