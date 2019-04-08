@@ -22,3 +22,4 @@
 >### layer7
 >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_1.PNG"/>
 >> <img width="150" height="150" src="https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/layer7_2.PNG"/>
+>>我們在每一個layer都選出兩張照片作為代表，這些圈起來的部位是mask的區域。由上圖我們可以發現layer1圈的東西形狀比較單調，效果較差，而layer4有圈的比較好，layer7則更能圈出一些比較複雜的圖形，效果是最好的。由此可知layer數越高確實越精準，比較能夠精確的辨別出物品，而layer1其實沒有太大的參考價值。
