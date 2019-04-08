@@ -29,3 +29,5 @@
   ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/model_v2.png?raw=true)
  
   ### Result:
+  ![image](https://github.com/CharlieYao1996/CVFX_GAN-Dissection/blob/master/result_1.png?raw=true)
+ 
